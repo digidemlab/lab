@@ -1,12 +1,13 @@
 ---
-title: Metoder och verktyg för framtidens deltagande demokrati
-position: 0
-description: Digidem Lab erbjuder tjänster och utvecklar metoder och verktyg för framtidens deltagande demokrati.
+title: Ditt digitala demokratilabb
+description: I labbet samlar vi aktivister, forskare, programmerare, designers och alla som tror att en annan värld är möjlig, för att skapa metoder och verktyg för morgondagens deltagande demokrati. Här är de projekt vi gjort hittills.
+layout: lab
 ref: start
-image: "/uploads/biskopsgarden.jpg"
-news-flash:
-  - text: Digidem Lab erbjuder nya verktyg och metoder för medborgardeltagande. Vi hjälper er med processdesign av deltagandeprocesser, installation och utbildning i digitala plattformar för deltagande och erbjuder workshops och föreläsningar.
-    link-title: Läs mer om våra tjänster
-    link: /services
-layout: start
+links:
+- title: Kolla in CivicTech Sweden
+  link: https://civictech.se
+- title: Följ Digidem Lab-bloggen
+  link: https://medium.com/digidemlab
 ---
+
+ :bulb:

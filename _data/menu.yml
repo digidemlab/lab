@@ -1,14 +1,4 @@
 sv:
-- title: Tjänster
-  url: /services
-- title: Uppdrag
-  url: /work
-- title: Om
-  url: /about
-- title: Kontakt
-  url: /contact
-- title: "Labbet :bulb:"
-  url: /lab
 en:
 - title: About
   url: /en/about

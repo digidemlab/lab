@@ -1,10 +1,18 @@
 ---
-title: The future of participation in your hands
-position: 0
-description: Digidem Lab is a space to create new processes for democratic participation.
-  We put new tools for collective intelligence in your hands.
-ingress-text: Digidem Lab is a space to create new processes for democratic participation.
+title: Your digital democracy lab
+description: Digidem Lab is an independent lab for participatory democracy with digital technology. We support projects, develop platforms and organise workshops and hackathons.
+layout: lab
 ref: start
-image: "/uploads/JBe2745-04ret.jpg"
-layout: start
+links:
+- title: Who are Digidem Lab?
+  link: "/en/about"
+- title: Follow the Digidem Lab blog
+  link: https://medium.com/digidemlab
+banners:
+- title:
+  image: "/uploads/banner-civictech.jpg"
+  link: http://civictech.se
+- title:
+  image: "/uploads/banner-normal-democat.png"
+  link: https://democat.me
 ---
