@@ -100,7 +100,7 @@ lab-link:
   sv: Mer om labbet
   en: More projects
 baseurl: "/lab"
-url: https://digidemlab.org/lab
+# url: https://digidemlab.org/lab
 author: Digidem Lab
 twitter:
   username: digidemlab
