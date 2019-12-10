@@ -55,7 +55,7 @@ Vi tror på att träffas och blanda skills och erfarenheter för bästa resultat
 
 ## Labbet:fire::seedling:
 På labbet samlas olika projekt som utforskar deltagande med digitala verktyg. Vill du driva ett eget projekt på Labbet söker du för att genomföra ditt projekt i 3 månader. Det innebär att du/ni som projektledare har tillgång till lokal, research och testning i samverkan med Digidem Labs nationella och internationella kontaktnät och handledning av våra Lab Managers.  
-**I det här dokumentet kan du läsa allt om hur labbet fungerar: [Välkommen till Digidem Lab](/uploads/Va%CC%88lkommen%20till%20Digidem%20Lab.pdf)**
+**I det här dokumentet kan du läsa allt om hur labbet fungerar: [Välkommen till Digidem Lab](/lab/uploads/Va%CC%88lkommen%20till%20Digidem%20Lab.pdf)**
 
 ## Hur funkar labbet?
 På vårt labb i Göteborg kan du som är under 26 år ansöka om att arbeta med projekt som handlar om delaktighet och ny teknik en kväll i veckan under tre månader. Labbet är ett utrymme att experimentera, lära av andras erfarenheter och samarbeta.  

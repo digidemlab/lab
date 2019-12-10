@@ -1,10 +1,22 @@
 sv:
+  - title: Tjänster
+    url: /services/
+  - title: Uppdrag
+    url: /work/
+  - title: Om oss
+    url: /about/
+  - title: Kontakt
+    url: /contact/
+  - title: "Labb :bulb:"
+    url: /lab
 en:
-- title: About
-  url: /en/about
-- title: Contact
-  url: /en/contact
-- title: Blog
-  url: http://medium.com/digidemlab
-- title: "Lab :bulb:"
-  url: /en/lab
+  - title: Services
+    url: /en/services/
+  - title: Work
+    url: /en/work/
+  - title: About
+    url: /en/about/
+  - title: Contact
+    url: /en/contact
+  - title: "Lab :bulb:"
+    url: /lab/en

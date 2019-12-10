@@ -22,24 +22,24 @@ Första prototypen finns på [Github](https://github.com/brnsolikyl/karrot-to-bi
 ## Första sidan efter login
 För att registrera sig behöver man en inbjudan som kan skickas genom verktyget eller så kan man använda grupplösenord till att komma in första gången. Den första sida man landar på efter inloggning är en anslagstavla där användarna kan lämna meddelande och det syns också inkommande pass/upphämtningar som man skrev upp sig på samt lediga pass/upphämtningar som ligger nära i tiden.
 
-![inloggning](/uploads/cykelkoket1.png)
+![inloggning](/lab/uploads/cykelkoket1.png)
 
 ## Pass och upphämtningar
 När man klickar på menyn till vänster ”Alla pass och upphämtningar”  kan man se både lediga och upptagna arbetspass eller cykelupphämtningar. Man kan skriva upp sig (gå med) på ett pass som köksmästaren eller en upphämtning av donerade cyklar genom att klicka på den lediga fyrkanten. Det går förstås att lämna passet eller redigera tid, platser och antal volontärer på passet.
 
-![pass](/uploads/cykelkoket2.png)
+![pass](/lab/uploads/cykelkoket2.png)
 
 ## Historik
 Allt som medlemmar gör på verktyget blir registrerade i en historik. Bilden nedan visar historiken på arbetspass i ett specifikt cykelkök, men det går att se historiken på precis allt som har hänt, historik på specifika upphämtningsställe eller på enskilda medlemmar.
 
-![historik](/uploads/cykelkoket3.png)
+![historik](/lab/uploads/cykelkoket3.png)
 
 ## Medlemmar
 När man klickar på menyn till vänster finns det en lista på alla medlemmar i gruppen. Man kan också klicka på ett namn och gå till en sida med information om medlem.
 
-![medlemmar 1](/uploads/cykelkoket4.png)
+![medlemmar 1](/lab/uploads/cykelkoket4.png)
 
-![medlemmar 2](/uploads/cykelkoket5.png)
+![medlemmar 2](/lab/uploads/cykelkoket5.png)
 
 
 

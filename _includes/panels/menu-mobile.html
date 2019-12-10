@@ -13,7 +13,7 @@
           {% for item in site.data.menu[page.lang] %}
             <li class="nav-item">
               <h2 class="display-2 mb-0">
-                <a class="px-2 text-primary" href="{% unless item.url contains 'http' %}{{site.baseurl}}{% endunless %}{{item.url}}">{{item.title}}</a>
+                <a class="px-2 text-primary" href="{{item.url}}">{{item.title}}</a>
               </h2>
             </li>
           {% endfor %}

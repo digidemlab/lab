@@ -11,8 +11,8 @@ layout: default
   </div>
 
   <div class="embed-responsive embed-adapting">
-    <video autoplay muted loop poster="/uploads/cloudthoughts_poster.png" id="header-video" class="embed-responsive-item embed-center">
-      <source src="/uploads/cloudthoughts-online.mp4" type="video/mp4">
+    <video autoplay muted loop poster="{{site.baseurl}}/uploads/cloudthoughts_poster.png" id="header-video" class="embed-responsive-item embed-center">
+      <source src="{{site.baseurl}}/uploads/cloudthoughts-online.mp4" type="video/mp4">
     </video>
   </div>
 </header>
@@ -31,7 +31,7 @@ layout: default
   </div>
   <nav class="nav flex-column flex-lg-row mb-2b">
     {% for item in page.links %}
-      <a class="flex-lg-fill nav-link pl-4 pl-lg-3 pr-lg-5 pt-0 pb-1 pb-lg-0 icon-arrow" href="{{site.baseurl}}{{item.link}}">{{item.title}}</a>
+      <a class="flex-lg-fill nav-link pl-4 pl-lg-3 pr-lg-5 pt-0 pb-1 pb-lg-0 icon-arrow" href="{{item.link}}">{{item.title}}</a>
     {% endfor %}
   </nav>
 </section>

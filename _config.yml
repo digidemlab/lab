@@ -1,5 +1,5 @@
 ---
-title: Digidem Lab
+title: Digidem Lab - Lab projects
 timezone: UTC
 collections:
   projects:
@@ -99,8 +99,8 @@ lab-desc:
 lab-link:
   sv: Mer om labbet
   en: More projects
-baseurl:
-url: https://digidemlab.org
+baseurl: "/lab"
+url: https://digidemlab.org/lab
 author: Digidem Lab
 twitter:
   username: digidemlab
