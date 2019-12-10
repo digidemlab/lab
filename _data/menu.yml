@@ -8,7 +8,7 @@ sv:
   - title: Kontakt
     url: /contact/
   - title: "Labb :bulb:"
-    url: /lab
+    url: /lab/
 en:
   - title: Services
     url: /en/services/
@@ -17,6 +17,6 @@ en:
   - title: About
     url: /en/about/
   - title: Contact
-    url: /en/contact
+    url: /en/contact/
   - title: "Lab :bulb:"
-    url: /lab/en
+    url: /lab/en/
