@@ -1,13 +1,13 @@
 ---
 title: Ditt digitala demokratilabb
-description: I labbet samlar vi aktivister, forskare, programmerare, designers och alla som tror att en annan värld är möjlig, för att skapa metoder och verktyg för morgondagens deltagande demokrati. Här är de projekt vi gjort hittills.
+description: Digidem Lab drev ett labb 2017-2019 för att utveckla digitala verktyg för demokrati. Här är de projekt som genomfördes. Kolla gärna in CivicTech Sweden om du är intresserad av att utveckla nya digitala verktyg för civilsamhället!
 layout: lab
 ref: start
 links:
-- title: Kolla in CivicTech Sweden
+- title: Till CivicTech Sweden
   link: https://civictech.se
-- title: Följ Digidem Lab-bloggen
-  link: https://medium.com/digidemlab
+- title: Tillbaka till digidemlab.org
+  link: https://digidemlab.org
 ---
 
  :bulb:

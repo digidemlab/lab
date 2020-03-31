@@ -1,18 +1,11 @@
 ---
 title: Your digital democracy lab
-description: Digidem Lab is an independent lab for participatory democracy with digital technology. We support projects, develop platforms and organise workshops and hackathons.
+description: Digidem Lab ran a democracy lab to develop new digital tools for democracy 2017-2019, here are all the projects. Please check out CivicTech Sweden if you are interested in developing new digital tools for the civil society!
 layout: lab
 ref: start
 links:
-- title: Who are Digidem Lab?
-  link: "/en/about"
-- title: Follow the Digidem Lab blog
-  link: https://medium.com/digidemlab
-banners:
-- title:
-  image: "/uploads/banner-civictech.jpg"
-  link: http://civictech.se
-- title:
-  image: "/uploads/banner-normal-democat.png"
-  link: https://democat.me
+- title: Go to CivicTech Sweden
+  link: https://civictech.se/en
+- title: Back to digidemlab.org
+  link: https://digidemlab.org/en
 ---
